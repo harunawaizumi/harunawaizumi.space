@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learn With Us</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+</head>
+<body>
+
+<!-- Start modal Box-->
+<input type="checkbox" id="registration" style="display:none">
+<form action="index.html" id="register">
+    <label for="registration" id="close">&times;</label>
+    <label for="username">Username:</label>
+    <input type="text" placeholder="Your Name">
+    <label for="email">E-mail:</label>
+    <input type="email" placeholder="Your E-mail Address">
+    <label for="login">Login Name:</label>
+    <input type="text" placeholder="Choose a Login Name">
+    <label for="password">Password:</label>
+    <input type="password" placeholder="Choose a Password">
+    <label for="password">Confirm Password:</label>
+    <input type="password" placeholder="Confirm Your Password">
+    <input type="submit" value="Register">
+</form>
+
+<input type="checkbox" id="login" style="display:none">
+<form action="index.html" id="sign-in">
+    <label for="login" id="close">&times;</label>
+    <label for="email">E-mail Address:</label>
+    <input type="email" placeholder="Your E-mail">
+    <label for="password">Password:</label>
+    <input type="password" placeholder="Your Password">
+    <input type="submit" value="Login">
+</form>
+<!--End Modal Box-->
+
+<!-- Start main Wrapper-->
+<div class="main-wrapper">
+    <!-- Start Navigation -->
+
+    <input type="checkbox" id="menu" style="display:none">
+    <label for="menu"><i class="fa fa-bars" aria-hidden="true"></i></label>
+
+    <nav>
+        <ul class="nav1">
+            <li><a href="./" id="active">Home</a></li>
+            <li><a href="./portfolio.html">Portfolio</a></li>
+            <li id="drop"><a href="#">Services</a>
+                <ul id="dropdown">
+                    <li><a href="#">Web Development</a></li>
+                    <li><a href="#">Wordpress</a></li>
+                    <li><a href="#">Graphic Design</a></li>
+                    <li><a href="#">Icon Design</a></li>
+                    <li><a href="#">Media Graphics</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+
+        <ul class="nav2">
+            <li><a href="#"><label for="login">Login</label></a></li>
+            <li><a href="#"><label for="registration">Registration</label></a></li>
+        </ul>
+    </nav>
+    <!-- End Navigation -->
+
+    <!-- Start Slideshow-->
+    <div class="slider">
+        <section>
+            <div class="slide">
+                <img src="img/img1.jpeg">
+            </div>
+            <div class="slide">
+                <img src="img/img2.jpeg">
+            </div>
+            <div class="slide">
+                <img src="img/img3.jpeg">
+            </div>
+            <div class="slide">
+                <img src="img/img4.jpeg">
+            </div>
+            <div class="slide">
+                <img src="img/img5.jpeg">
+            </div>
+        </section>
+    </div>
+    <!--End Slideshow-->
+
+    <!-- Start Cards Section -->
+    <section class="card-section">
+        <div class="card">
+            <div class="back" id="back1">
+                <h2>HTML5</h2>
+                <p>Course Title: Learn HTML5 Basics</p>
+                <p>Price: $100</p>
+                <p>Instructor: John</p>
+                <p>Course Length: 3 Hours</p>
+            </div>
+            <div class="front" id="front1"></div>
+        </div>
+
+        <div class="card">
+            <div class="back" id="back2">
+                <h2>CSS3</h2>
+                <p>Course Title: Learn Advanced CSS3</p>
+                <p>Price: $150</p>
+                <p>Instructor: David</p>
+                <p>Course Length: 5.5 Hours</p>
+            </div>
+            <div class="front" id="front2"></div>
+        </div>
+
+        <div class="card">
+            <div class="back" id="back3">
+                <h2>JavaScript</h2>
+                <p>Course Title: JavaScript From Scratch</p>
+                <p>Price: $200</p>
+                <p>Instructor: Michael</p>
+                <p>Course Length: 10 Hours</p>
+            </div>
+            <div class="front" id="front3"></div>
+        </div>
+    </section>
+    <!-- End Cards Section-->
+
+    <!-- Start Developers Section -->
+    <section class="dev-section">
+        <div class="container">
+            <img src="img/developer1.png">
+            <div class="middle">
+                <div class="text">
+                    <h3>John</h3>
+                    <p>HTML CSS Bootstrap</p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <img src="img/developer2.png">
+            <div class="middle">
+                <div class="text">
+                    <h3>David</h3>
+                    <p>HTML CSS SASS LASS</p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <img src="img/developer3.png">
+            <div class="middle">
+                <div class="text">
+                    <h3>Michael</h3>
+                    <p>HTML CSS Bootstrap JS</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Developers Section-->
+
+    <!-- Start Social Media Section-->
+    <section class="social-icons">
+        <ul>
+            <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"><span>Google+</span></i></a></li>
+            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"><span>Facebook</span></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"><span>Twitter</span></i></a></li>
+        </ul>
+    </section>
+    <!-- End Social Media Section-->
+
+    <footer>
+        <p>
+            Copyright &copy; 2017 CodeAndCreate All Rights Reserved
+        </p>
+    </footer>
+</div>
+<!--End Main Wrapper-->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
