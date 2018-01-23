@@ -344,13 +344,13 @@ section.card-section div.card div.back p {
 
 
 #front1 {
-    background: #ccc url(img/js.png) no-repeat center;
+    background: #ccc url(img/js.svg) no-repeat center;
 }
 #front2 {
-    background: #ccc url(img/design.png) no-repeat center;
+    background: #ccc url(img/design.svg) no-repeat center;
 }
 #front3 {
-    background: #ccc url(img/language.png) no-repeat center;
+    background: #ccc url(img/language.svg) no-repeat center;
 }
 section.card-section div.card:hover div.front {
     transform: perspective(600px) rotateY(-180deg);
