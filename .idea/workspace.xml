@@ -2,48 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03444b96-cf30-429b-9aba-bd9b8d20ce3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfavicon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/design.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/js.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/language.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/developer1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/developer2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/developer3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CSS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/HTML5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Sales.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/developer1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/developer2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/developer3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img4.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img5.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img4.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img5.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design.png" afterPath="$PROJECT_DIR$/design.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greecom.png" afterPath="$PROJECT_DIR$/greecom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/design.png" afterPath="$PROJECT_DIR$/img/design.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/greecom.png" afterPath="$PROJECT_DIR$/img/greecom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/jimoto.png" afterPath="$PROJECT_DIR$/img/jimoto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/jimototemp.png" afterPath="$PROJECT_DIR$/img/jimototemp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/js.png" afterPath="$PROJECT_DIR$/img/js.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/language.png" afterPath="$PROJECT_DIR$/img/language.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="$PROJECT_DIR$/img/profile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimoto.png" afterPath="$PROJECT_DIR$/jimoto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jimototemp.png" afterPath="$PROJECT_DIR$/jimototemp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js.png" afterPath="$PROJECT_DIR$/js.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language.png" afterPath="$PROJECT_DIR$/language.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.jpg" afterPath="$PROJECT_DIR$/profile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sales.png" afterPath="$PROJECT_DIR$/sales.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/design.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/js.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/language.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/language.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sales.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,22 +26,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="332">
+              <caret line="122" column="35" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="design.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/design.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -124,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/profile.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-              <folding />
-            </state>
+      <file leaf-file-name="greecom.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/greecom.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -383,12 +344,12 @@
       <updated>1516424426263</updated>
       <workItem from="1516424427406" duration="21159000" />
       <workItem from="1516502960597" duration="322000" />
-      <workItem from="1516717362574" duration="2723000" />
+      <workItem from="1516717362574" duration="3909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24204000" />
+    <option name="totallyTimeSpent" value="25390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="476" y="23" width="957" height="877" extended-state="0" />
@@ -626,22 +587,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/js.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/greecom.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/greecom.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -700,14 +651,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -729,13 +672,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/js.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/greecom.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="332">
+          <caret line="122" column="35" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
